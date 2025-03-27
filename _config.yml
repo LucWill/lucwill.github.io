@@ -2,7 +2,7 @@
 # This file contains configuration flags to customize your site
 #
 
-theme: minimal
+remote_theme: pages-themes/minimal
 
 # Name of your site (displayed in the header)
 name: Your Name
