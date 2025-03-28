@@ -6,7 +6,7 @@ categories: [Data Science, Analysis]
 tags: [job satisfaction, data science, regression, limitations]
 ---
 
-![({{ site.baseurl }}/images/2025-03-28-title_pic_jobsat.png)
+![Title image]({{ site.baseurl }}/images/2025-03-28-title_pic_jobsat.png)
 
 *How satisfied are we with our jobs? And can this satisfaction be predicted from objective data?*
 As part of my Data Science course, I set out to explore this question — and learned that data doesn’t always give us the answers we expect.
