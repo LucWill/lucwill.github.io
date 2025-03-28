@@ -6,7 +6,7 @@ categories: [Data Science, Analysis]
 tags: [job satisfaction, data science, regression, limitations]
 ---
 
-![Title Image](/images/2025-03-28-title_pic_jobsat.png)
+![({{ site.baseurl }}/images/2025-03-28-title_pic_jobsat.png)
 
 *How satisfied are we with our jobs? And can this satisfaction be predicted from objective data?*
 As part of my Data Science course, I set out to explore this question — and learned that data doesn’t always give us the answers we expect.
@@ -57,7 +57,7 @@ I attempted to build a regression model to predict **Job Satisfaction** (on a sc
 
 Most respondents rate their job satisfaction in the upper range of the scale:
 
-![Job Satisfaction Distribution](/images/2025-03-28-JobSat_hist.png)
+![Job Satisfaction Distribution]({{ site.baseurl }}/images/2025-03-28-JobSat_hist.png)
 
 ---
 
@@ -65,7 +65,7 @@ Most respondents rate their job satisfaction in the upper range of the scale:
 
 A Random Forest model reveals the **top factors influencing job satisfaction**:
 
-![Feature Importance](/images/2025-03-28-feature_importance.png)
+![Feature Importance]({{ site.baseurl }}/images/2025-03-28-feature_importance.png)
 
 Interestingly:
 - Salary and work experience play a role.
