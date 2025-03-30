@@ -136,4 +136,4 @@ That is exactly what I learned in this project — and I want to share this as a
 
 ### 📂 Appendix
 
-All data and visualizations used in this analysis are available in this repository.
+All data and visualizations used in this analysis are available in [this](https://github.com/LucWill/so_satisfaction) repository.
