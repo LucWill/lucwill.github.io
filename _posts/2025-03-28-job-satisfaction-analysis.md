@@ -87,6 +87,22 @@ Only self-assessed influence in the company shows a slight correlation.
 
 ---
 
+🔥 How Good Are the Predictions Really?
+
+To further evaluate the models, I compared their prediction performance to simple statistical properties of the data:
+
+    The mean of the predicted job satisfaction values almost perfectly matches the mean of the actual Job Satisfaction in the dataset.
+
+    The Root Mean Squared Error (RMSE) of both models is nearly identical to the standard deviation of the Job Satisfaction scores.
+
+This is a strong indication that the models are essentially predicting the mean and that their predictions fluctuate randomly around it — similar to what a random number generator would do.
+
+In other words:
+
+    The models do not capture meaningful relationships in the data.
+
+---
+
 ## ❗️ Key Insights
 
 **The main takeaway of my analysis is:**
