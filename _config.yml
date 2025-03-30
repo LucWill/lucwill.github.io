@@ -11,7 +11,7 @@ name: Luc Will
 description: Curious. Analytical. Creative.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: {{ site.baseurl }}/images/profile_pic.png
+avatar: https://LucWill.github.io/images/profile_pic.png
 
 #
 # Flags below are optional
