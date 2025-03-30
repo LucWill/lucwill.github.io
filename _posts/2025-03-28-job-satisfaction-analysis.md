@@ -87,21 +87,19 @@ Only self-assessed influence in the company shows a slight correlation.
 
 ---
 
-📈 Model Performance Evaluation
+## 📈 Model Performance Evaluation
 
-To further evaluate the models, I compared their prediction performance to simple statistical properties of the data:
+To further evaluate the models, I compared their predictions to simple statistical properties of the data:
 
-    The mean of the predicted job satisfaction values almost perfectly matches the mean of the actual Job Satisfaction in the dataset.
-
-    The Root Mean Squared Error (RMSE) of both models is nearly identical to the standard deviation of the Job Satisfaction scores.
+- The **mean of the predicted job satisfaction values** closely matches the **mean of the actual Job Satisfaction** scores in the dataset.
+- The **Root Mean Squared Error (RMSE)** of both models is nearly identical to the **standard deviation** of the Job Satisfaction scores.
 
 ![Mean and Std]({{ site.baseurl }}/images/2025-03-28-statistics.png)
 
-This is a strong indication that the models are essentially predicting the mean and that their predictions fluctuate randomly around it — similar to what a random number generator would do.
+This indicates that the models essentially predict the mean and that their predictions fluctuate randomly around it — **similar to what a random number generator would do.**
 
 In other words:
-
-    The models do not capture meaningful relationships in the data.
+> **The models do not capture meaningful relationships in the data.**
 
 ---
 
