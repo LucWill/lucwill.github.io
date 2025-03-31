@@ -71,8 +71,7 @@ A Random Forest model reveals the **top factors influencing job satisfaction**:
 - Knowledge_3: "I can find up-to-date information within my organization to help me do my job."
 
 Interestingly:
-- Salary and work experience play a role.
-- Subjective self-assessments such as **Purchase Influence** or **JobSatPoints** appear.
+- Subjective self-assessments such as **Purchase Influence** or **Frustration** appear.
 - However, **no single feature is dominant** — the model struggles to explain much of the variance.
 
 ---
@@ -81,7 +80,7 @@ Interestingly:
 
 A correlation analysis supports this finding:  
 **The correlations between job satisfaction and other variables are very weak.**  
-Only self-assessed influence in the company shows a slight correlation.
+Only self-assessed influence in the company and certain knowledge-categories show a slight correlation.
 
 ![Correlations]({{ site.baseurl }}/images/2025-03-28-correlation_matrix.png)
 
